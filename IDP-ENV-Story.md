@@ -4,10 +4,6 @@
 
 Developers discover integration issues **after merging** to shared dev environments, breaking those environments for everyone. Platform teams manually provision test environments, creating bottlenecks.
 
-## The Gap
-
-Harness has IDP (self-service portal), IaCM (provisioning), CD (deployment), and CV (verification) — but no way to combine them into **self-service ephemeral environments for pre-merge integration testing.**
-
 ## The Solution
 
 **IDP-driven ephemeral environments with namespace isolation.**
