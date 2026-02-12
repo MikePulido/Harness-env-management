@@ -16,7 +16,7 @@ Developers discover integration issues **after merging** to shared dev environme
 
 ## Why Harness
 
-Uffizzi/Okteto lack IDP self-service. Port/Backstage lack environment orchestration. Vercel/Netlify are frontend-only. **Harness uniquely integrates IDP + IaCM + CD + CV** to deliver the full workflow.
+**Harness uniquely integrates IDP + IaCM + CD** to deliver the full workflow.
 
 ## Customer Value
 
