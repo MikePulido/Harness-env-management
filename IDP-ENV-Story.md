@@ -2,7 +2,7 @@
 
 ## The Problem
 
-In complex microservice application architectures, it becomes difficult to have a local environment to write code that has consistencies with higher environments. Developers discover integration issues **after merging** to shared dev environments, breaking those environments for everyone. Platform teams manually provision test environments, creating bottlenecks. This can result in days to fix code related/dependency related integration issues that could be caught in real time.
+In complex microservice application architectures, it becomes difficult to have a local environment to write code that has consistencies with higher environments. Developers discover integration issues **after merging** to shared dev environments, breaking those environments for everyone. This can result in days to fix code related/dependency related integration issues that could be caught in real time.
 
 ## The Solution
 
