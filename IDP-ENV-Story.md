@@ -2,7 +2,7 @@
 
 ## The Problem
 
-Developers discover integration issues **after merging** to shared dev environments, breaking those environments for everyone. Platform teams manually provision test environments, creating bottlenecks. In complex Kubernetes microservice architectures, it becomes difficult to have a local environment to write code that has consistencies with higher environments. 
+Developers discover integration issues **after merging** to shared dev environments, breaking those environments for everyone. Platform teams manually provision test environments, creating bottlenecks. In complex Kubernetes microservice architectures, it becomes difficult to have a local environment to write code that has consistencies with higher environments. This can take days to fix issues that could be caught in real time.
 
 ## The Solution
 
