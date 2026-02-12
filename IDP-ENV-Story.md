@@ -10,7 +10,7 @@ In complex microservice application architectures, it becomes difficult to have 
 
 1. Developer requests environment via IDP portal
 2. IaCM provisions namespace-scoped environment
-3. CD deploys PR code + its dependencies in isolation
+3. CD deploys PR code + its dependencies in isolation alongside the latest related microservices updates
 4. Auto-teardown after merge
 
 ## Why Harness
